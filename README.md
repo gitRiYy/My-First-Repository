@@ -13,5 +13,5 @@ This is the link [Click Here](https://youtube.com) to open youtube.
 1. Study More Lists command!
    - Second Test
      - HALO
-       - Second halo!
+       * Second halo!
          - Third halo!
