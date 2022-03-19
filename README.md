@@ -10,6 +10,5 @@ This is the link [Click Here](https://youtube.com) to open youtube.
 - links
 - lists
 ## Study Section 2!
-1 . Study More Lists command!
-    - Test
-        - Second Test
+1. Study More Lists command!
+2. - Second Test
