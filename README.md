@@ -16,6 +16,6 @@ This is the link [Click Here](https://youtube.com) to open youtube.
        * Second halo!
          - Third halo!
 ### Result!
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] Lists
+- [x] tasks lists
+- [ ] other lists
