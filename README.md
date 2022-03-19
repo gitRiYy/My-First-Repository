@@ -12,3 +12,4 @@ This is the link [Click Here](https://youtube.com) to open youtube.
 ## Study Section 2!
 1. Study More Lists command!
   - Second Test
+  - HALO
